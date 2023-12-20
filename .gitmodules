@@ -1,3 +1,6 @@
 [submodule "Coursera/Deep Learning Specialization"]
 	path = Coursera/Deep Learning Specialization
 	url = git@github.com:longhoang0304/deep-learning-spec.git
+[submodule "Coursera/Machine Learning Specialization"]
+	path = Coursera/Machine Learning Specialization
+	url = git@github.com:longhoang0304/machine-learning-spec.git
